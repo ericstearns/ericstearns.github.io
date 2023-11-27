@@ -49,7 +49,7 @@ p {
     font-family: Perpetua, Rockwell Extra Bold;
     text-align: justify; /* Justify text within paragraph elements */
     letter-spacing: .1vw; /* This expands the text slightly */
-    font-size: 1.5vw;
+    font-size: 1.4vw;
     padding-left: 1vw; /* Adds padding to the left of the paragraph element */
     padding-right: 1vw; /* Adds padding to the right of the paragraph element */
 }
